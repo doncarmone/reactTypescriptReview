@@ -4,7 +4,8 @@
 - Implementing Types/Interfaces
 - Little touch of bootstrap
 
-![image](https://github.com/doncarmone/reactTypescriptReview/assets/95723822/1d119948-5503-497c-8e3f-edf4b4d251c9)
+![image](https://github.com/doncarmone/reactTypescriptReview/assets/95723822/34fba820-cd9a-4c40-bda5-c7e688d86838)
+
 
   
 ## Available Scripts
