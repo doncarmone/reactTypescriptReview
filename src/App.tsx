@@ -13,13 +13,10 @@ function App() {
       <Usuario />
       <h1>useEffect - useRef</h1>
       <hr />
-
       <TimerPadre />
-
       <h2>UseReducer</h2>
       <hr />
       <ContadorRed />
-
       <h2>Custom Hooks</h2>
       <hr />
       <Formulario />

@@ -7,9 +7,9 @@ interface FormData {
 }
 export const Formulario = () => {
     const { nombre,email,edad, handleChange, formulario } = useForm<FormData>({
-        email: 'fernando@gmail.com',
-        nombre: 'Fernando Herrera',
-        edad: 35
+        email: 'javier.carmona.gallegos@gmail.com',
+        nombre: 'Javier Carmona',
+        edad: 28
     });
 
     // const [formulario, setFormulario] = useState({

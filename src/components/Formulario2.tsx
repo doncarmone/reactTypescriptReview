@@ -6,8 +6,8 @@ interface FormData {
 }
 export const Formulario2 = () => {
     const { formulario, handleChange } = useForm<FormData>({
-        postal: 'ABC',
-        ciudad: 'Otawa'
+        postal: 'XYZ',
+        ciudad: 'Domino'
     });
 
     const {postal, ciudad } = formulario;
